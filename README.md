@@ -12,6 +12,7 @@
 - **Керування бібліотечним каталогом:** Легке управління книжками, авторами та історією користувачів.
 
 Вимоги
+![login page](https://github.com/user-attachments/assets/5cd9f046-fc1b-44fb-860a-eea5dae10c42)
 
 - **Java SE Development Kit (JDK) 11** або новіша версія.
 - **NetBeans IDE 12** або новіша версія.
